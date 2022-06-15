@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ilirian-Jakupi
-- 👀 I’m interested in Minecraft Programing(Spigot)
+- 👀 I’m interested in Minecraft Plugin Programing(Spigot)
 - 🌱 I’m currently learning Java
 
 <!---
